@@ -9,4 +9,5 @@ Summer Project done by: Raquib Alam, Billy Cherres and Dylan Roman
 - [ ] search
 - [ ] Profile
 - [ ] Settings
-
+- [ ] Auto Text Invites and Updates
+- [ ] *** Encryption for user accounts and personal information
